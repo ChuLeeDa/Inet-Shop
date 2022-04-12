@@ -1,2 +1,0 @@
-# inet-shop
-first project
