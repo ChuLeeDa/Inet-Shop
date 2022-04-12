@@ -246,14 +246,11 @@ background-image: url(img/men.png);
 .title_group {
     display: flex;
     flex-direction: column;
-    margin: 0 0 0 50px;
+    margin: 0 0 0 780px;
     text-transform: uppercase;
     position: relative;
-    float: right;
-    margin-top: -469px;
-    right: 223px;
-    max-width: 1920px;
-    width: 30%;
+    width: 405px;
+    margin-top: -450px;
 }
 .page-header {
     width: 100%;
