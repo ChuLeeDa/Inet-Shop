@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    max-width: 1920px;
+    max-width: 1600px;
     width: 100%; 
     font-family: 'Lato';
     
@@ -11,7 +11,7 @@ body {
 
 .header_container {
     width: 100%;
-    max-width: 1920px;
+    max-width: 1600px;
     height: 75px;
     background: #222222;
     display: inline-block;
@@ -375,9 +375,10 @@ background-image: url(img/wom.png);
     margin-top: 30px;
 }
   
-  .ribay {
-    width: 1140px;
+  .block_card {
+    width: 100%;
+    max-width: 1400px;
     height: 470px;
-    padding: 65px 230px 96px 230px;
     display: inline-block;
+    margin-top: 65px;
   }
