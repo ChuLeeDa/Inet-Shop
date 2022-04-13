@@ -285,7 +285,6 @@ background-image: url(img/men.png);
     position: relative;
     display: inline-block;
     margin: 0;
-    border: 5px solid #fff;
     box-shadow: 1px 3px 1px 0 rgba(0, 0, 0, 0.08);
     overflow: hidden;
 }
@@ -339,7 +338,7 @@ background-image: url(img/men.png);
 
   .card-woman {
 background-image: url(img/wom.png);
-    width: 360px;
+    width: 355px;
     height: 260px;
     background-repeat: no-repeat;
     right: 30px;
