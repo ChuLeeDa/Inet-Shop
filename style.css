@@ -139,10 +139,10 @@ body {
   }
   .clothes-menu__container {
     align-items: center;
-    top: 75px;
+    top: 47px;
     width: 232px;
     position: absolute;
-    right: 0px;
+    right: -231px;
     z-index: 1;
     height: 0;
     opacity: 1;
