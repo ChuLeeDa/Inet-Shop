@@ -17,23 +17,7 @@ body {
     display: inline-block;
 }
 /*searching's form*/
-.header_page_wrp_btn {
-    margin-left: 231px;
-    margin-top: 18px;
-    width: 50%;
-}
-.search-form {
-    margin-top: -33px;
-    margin-left: 90px;
-    width: 50%;
-}
-.page-header-search-btn {
-    width: 45%;
-}
-.style_svg {
-    fill: #E8E8E8;
-    cursor: pointer;
-}
+
 
 .logo {
 
