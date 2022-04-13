@@ -348,6 +348,7 @@ background-image: url(img/wom.png);
     display: inline-block;
     width: 360px;
     height: 260px;
+    background-repeat: no-repeat;
   }
   
   .card-men {
@@ -356,6 +357,7 @@ background-image: url(img/wom.png);
     width: 360px;
     height: 260px;
     margin-left: 22px;
+    background-repeat: no-repeat;
   }
   .card-kids {
     background-image: url(img/kid.png);
@@ -363,13 +365,14 @@ background-image: url(img/wom.png);
     width: 360px;
     height: 260px;
     margin-left: 30px;
+    background-repeat: no-repeat;
   }
   .card-accesories {
     background-image: url(img/acc.png);
     display: inline-block;
-    width: 1140px;
+    width: 1112px;
     height: 180px;
-    margin-top: 30px;
+    background-repeat: no-repeat;
 }
   
   .block_card {
