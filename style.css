@@ -32,7 +32,7 @@ body {
   }
   
   .search {
-    margin: 20px;
+    margin-left: 41px;
   }
   
   .search > h3 {
@@ -55,11 +55,11 @@ body {
   .search > div:after {
     content: "";
     background: white;
-    width: 4px;
-    height: 20px;
+    width: 2px;
+    height: 13px;
     position: absolute;
-    top: 40px;
-    right: 2px;
+    top: 23px;
+    right: -1px;
     transform: rotate(135deg);
   }
   
@@ -67,10 +67,10 @@ body {
     color: white;
     font-size: 16px;
     background: transparent;
-    width: 25px;
-    height: 25px;
-    padding: 10px;
-    border: solid 3px white;
+    width: 6px;
+    height: 5px;
+    padding: 10px 10px 10px 10px;
+    border: solid 2px white;
     outline: none;
     border-radius: 35px;
     transition: width 0.5s;
