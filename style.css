@@ -23,9 +23,11 @@ body {
 
 }
 .flexbox {
-    width: 100%;
+    width: 111px;
     display: flex;
     align-items: center;
+    margin-top: 18px;
+    margin-left: 231px;
   }
   
   .search {
@@ -217,14 +219,10 @@ margin-top: 12px;
   .list_group_btn {
     list-style-type: none;
     width: 168px;
-    float: right;
     margin-right: 231px;
-    margin-left: 17px;
-    margin-top: -32px;
     display: flex;
-    justify-content: right;
-    
-    
+    position: absolute;
+
   }
 
 
