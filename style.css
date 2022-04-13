@@ -197,6 +197,8 @@ margin-top: 12px;
   }
   .clothes-menu__checkbox:checked ~ .clothes-menu__container {
     height: 764px;
+    position: absolute;
+    right: -230px;
   }
   .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon {
     background: transparent;
