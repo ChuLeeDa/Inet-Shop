@@ -218,7 +218,7 @@ margin-top: 12px;
     margin-bottom: 65px;
 }
 .man_block {
-background-image: url(img/men.png);
+    background-image: url(img/man_pink.png);
     width: 67%;
     height: 764px;
     background-size: 800px;
@@ -337,7 +337,7 @@ background-image: url(img/men.png);
 }
 
   .card-woman {
-background-image: url(img/wom.png);
+background-image: url(img/woman_card.png);
     width: 355px;
     height: 260px;
     background-repeat: no-repeat;
@@ -345,7 +345,7 @@ background-image: url(img/wom.png);
   }
   
   .card-men {
-    background-image: url(img/mn.png);
+    background-image: url(img/man_card.png);
     width: 360px;
     height: 260px;
     background-repeat: no-repeat;
