@@ -42,13 +42,11 @@ body {
   .search > {
     color: #222222;
     margin-bottom: 15px;
-    text-shadow: 0 1px #222222;
   }
   
   .search > div {
     display: inline-block;
     position: relative;
-    filter: drop-shadow(  #E8E8E8);
   }
   
   .search > div:after {
