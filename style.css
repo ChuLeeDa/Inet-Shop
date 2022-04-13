@@ -19,9 +19,7 @@ body {
 /*searching's form*/
 
 
-.logo {
 
-}
 .flexbox {
     width: 111px;
     display: flex;
@@ -88,7 +86,9 @@ body {
     width: 150px;
   }
   
-
+.search:hover {
+    
+}
 
 /*burger button*/
 
