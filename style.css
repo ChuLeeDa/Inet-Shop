@@ -339,39 +339,35 @@ background-image: url(img/men.png);
 
   .card-woman {
 background-image: url(img/wom.png);
-    display: inline-block;
     width: 360px;
     height: 260px;
     background-repeat: no-repeat;
+    right: 30px;
   }
   
   .card-men {
     background-image: url(img/mn.png);
-    display: inline-block;
     width: 360px;
     height: 260px;
-    margin-left: 22px;
     background-repeat: no-repeat;
   }
   .card-kids {
     background-image: url(img/kid.png);
-    display: inline-block;
     width: 360px;
     height: 260px;
-    margin-left: 30px;
+    left: 30px;
     background-repeat: no-repeat;
   }
   .card-accesories {
     background-image: url(img/acc.png);
-    display: inline-block;
-    width: 1112px;
+    width: 1140px;
     height: 180px;
     background-repeat: no-repeat;
+    top: 30px;
 }
   
   .block_card {
     width: 1140px;
     height: 470px;
-    display: flex;
     margin: auto;
   }
