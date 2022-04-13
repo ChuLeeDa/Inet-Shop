@@ -203,7 +203,7 @@ margin-top: 12px;
   .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon {
     background: transparent;
   }
-  .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon::before, .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes-menu__icon::after {
+  .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon::before, .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon::after {
     top: 0;
   }
   .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon::after {
