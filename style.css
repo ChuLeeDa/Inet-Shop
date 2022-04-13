@@ -219,8 +219,9 @@ margin-top: 12px;
   .list_group_btn {
     list-style-type: none;
     width: 168px;
-    margin-right: 231px;
+    right: 231px;
     display: flex;
+    top: 28px;
     position: absolute;
 
   }
