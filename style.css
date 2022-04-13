@@ -95,7 +95,7 @@ body {
 /*burger button*/
 
 
-.mobile-menu {
+.clothes-menu {
     position: fixed;
     display: contents;
     padding: 0px 4px;
@@ -105,7 +105,7 @@ body {
     cursor: pointer;
     
   }
-  .mobile-menu__btn {
+  .clothes-menu__btn {
     position: relative;
     display: flex;
     align-items: center;
@@ -115,7 +115,7 @@ body {
     cursor: pointer;
     transition: .4s;
   }
-  .mobile-menu__icon {
+  .clothes_menu__icon {
     display: block;
     position: relative;
     background: white;
@@ -124,7 +124,7 @@ body {
     transition: .4s;
     
   }
-  .mobile-menu__icon::after, .mobile-menu__icon::before {
+  .clothes_menu__icon::after, .clothes_menu__icon::before {
     content: "";
     display: block;
     position: absolute;
@@ -133,13 +133,13 @@ body {
     height: 4px;
     transition: .4s;
   }
-  .mobile-menu__icon::after {
+  .clothes_menu__icon::after {
     top: 8px;
   }
-  .mobile-menu__icon::before {
+  .clothes_menu__icon::before {
     top: -8px;
   }
-  .mobile-menu__container {
+  .clothes-menu__container {
     align-items: center;
     top: 75px;
     width: 232px;
@@ -191,26 +191,26 @@ margin-top: 12px;
     color: #6F6E6E;
     }
   
-  .mobile-menu__checkbox {
+  .clothes-menu__checkbox {
     display: none;
   }
-  .mobile-menu__checkbox:checked ~ .mobile-menu__nav {
+  .clothes-menu__checkbox:checked ~ .clothes-menu__nav {
     opacity: 1;
   }
-  .mobile-menu__checkbox:checked ~ .mobile-menu__container {
+  .clothes-menu__checkbox:checked ~ .clothes-menu__container {
     height: 764px;
   }
-  .mobile-menu__checkbox:checked ~ .mobile-menu__btn .mobile-menu__icon {
+  .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon {
     background: transparent;
   }
-  .mobile-menu__checkbox:checked ~ .mobile-menu__btn .mobile-menu__icon::before, .mobile-menu__checkbox:checked ~ .mobile-menu__btn .mobile-menu__icon::after {
+  .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon::before, .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes-menu__icon::after {
     top: 0;
   }
-  .mobile-menu__checkbox:checked ~ .mobile-menu__btn .mobile-menu__icon::after {
+  .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon::after {
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
   }
-  .mobile-menu__checkbox:checked ~ .mobile-menu__btn .mobile-menu__icon::before {
+  .clothes-menu__checkbox:checked ~ .clothes-menu__btn .clothes_menu__icon::before {
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
   }
