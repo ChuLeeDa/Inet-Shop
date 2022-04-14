@@ -9,12 +9,15 @@ body {
     
 }
 
-.header_container {
+.header_block {
     width: 100%;
     max-width: 1600px;
     height: 75px;
     background: #222222;
     display: inline-block;
+}
+.container_nav {
+    
 }
 /*searching's form*/
 
